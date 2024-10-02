@@ -1,11 +1,9 @@
-
 window.addEventListener('wheel', function(event) {
     event.preventDefault();
     const scrollSpeed = 3.5;
-
-    
     window.scrollBy({ top: event.deltaY * scrollSpeed, behavior: 'smooth' });
 }, { passive: false });
+
 function validateForm(event) {
     event.preventDefault(); // Impede o envio padrão do formulário
 
@@ -25,7 +23,8 @@ function validateForm(event) {
     }).then(response => {
         if (response.ok) {
             alert("Formulário enviado com sucesso!");
-            window.location.href = './index.html'; // Redireciona para a home
+            // Redireciona para a home
+            window.location.href = './index.html';
         } else {
             throw new Error('Erro ao enviar o formulário.');
         }
@@ -36,3 +35,6 @@ function validateForm(event) {
 
     return false; // Impede o envio do formulário padrão
 }
+
+// Adicione o listener de evento ao formulário
+document.getElementById('contactForm').addEventListener('submit', validateForm);
