@@ -1,0 +1,96 @@
+
+/* Estilos do menu fixo */
+.fixed-menu {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color:  #0549b6; /* Fundo azul claro */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra para destaque */
+    z-index: 1000;
+    padding: 30px 0; /* Aumenta ainda mais a altura da barra do menu */
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    max-width: 1200px;
+    margin: 0 auto; /* Centraliza o contêiner na tela */
+}
+.logo {
+    display: flex;
+    align-items: center;
+}
+.logo p a {
+    text-decoration: none;
+    margin-left: 10px;
+    font-size:larger;
+    color:  #fff;
+}
+.logo-img {
+    height: 50px; /* Tamanho da logo */
+    border-radius: 10px;
+}
+.nav-items {
+    display: flex;
+    gap: 30px;
+    margin-left: auto; /* Empurra os itens do menu para a direita */
+}
+.nav-items a {
+    color: #fff; /* Cor branca para os links */
+    text-decoration: none;
+    font-size: 25px; /* Aumenta o tamanho da letra */
+    transition: color 0.3s ease;
+}
+
+.nav-items a:hover {
+    color: #CCCCCC; /* Cor ao passar o mouse */
+}
+/* Estilos para a imagem principal 
+.foto-principal {
+    position: relative;
+    width: 100%;
+    height: 55vh; /* Ocupa 60% da altura da viewport 
+    overflow: hidden;
+}
+
+.foto-principal-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Garante que a imagem cubra toda a área sem distorção 
+    display: block; /* Remove o espaço em branco abaixo da imagem 
+}*/
+.hero {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    /* background: #333; */
+    /* background: rgba(0, 0, 0, 0.25); */
+    color: white;
+    padding: 200px 0;
+    position: relative;
+    overflow: hidden;
+    min-height: 50vh;
+    margin-bottom: 70px;
+}
+.video-bg {
+    position: absolute;
+    z-index: -1;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.intro {
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+    max-width: 960px;
+}
+
+.row {
+    display: flex;
+}
