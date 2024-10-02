@@ -24,6 +24,7 @@ O Projeto Luizão é uma iniciativa transformadora que busca oferecer uma altern
 
 ## FIGMA
 https://www.figma.com/design/SvSjxRU2AKosh3GTl34IOF/Projeto-Interdisciplinar?node-id=0-1&node-type=canvas&t=ncMIPaSzEBH8LBUj-0
+https://www.figma.com/design/hqEeYNGEnm1rhEbPsdU8EO/SaaS-Website-Home-%26-Mobile-Page-(Community)?node-id=0-1&node-type=canvas&t=nfyeB0YltXGR8rcM-0
 ## Planner
 https://planner.cloud.microsoft/edu.fecap.br/pt-BR/Home/Planner/#/plantaskboard?groupId=22db3328-f380-44b6-b25d-52da6a868c51&planId=smb7V4Id2EWNdijuA_de1WQAH3qU
 
