@@ -10,7 +10,7 @@ Projeto 4
 
 ## 4 Oliginal, 1 Original
 
-## Integrantes:  <a href="https://github.com/Leonardoss23">Leonardo Santos da Silva</a>, <a href="https://github.com/LucasSilvaMaciel">Lucas Silva Maciel</a>, <a "https://github.com/guibarioni">Guilherme Barioni</a>, <a "https://github.com/BryanMatoss">Bryan Matos</a>
+## Integrantes:  <a href="https://github.com/Leonardoss23">Leonardo Santos da Silva</a>, <a href="https://github.com/LucasSilvaMaciel">Lucas Silva Maciel</a>, <a href="https://github.com/guibarioni">Guilherme Barioni</a>, <a href="https://github.com/BryanMatoss">Bryan Matos</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/dolemes/">Prof. David De Oliveira Lemes</a>, <a href="">Prof. Francisco de Souza Escobar</a>, <a href="">Profª. Katia Milani Lara Bossi
 </a>
